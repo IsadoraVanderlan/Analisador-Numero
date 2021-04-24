@@ -1,2 +1,2 @@
-# Analisador-Numero
- Analizador de Numeros
+# Tabuada
+ Tabuada Simples
